@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.2.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 6013 --host 0.0.0.0",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "pinia": "^2.1.7"
+  }
+}
