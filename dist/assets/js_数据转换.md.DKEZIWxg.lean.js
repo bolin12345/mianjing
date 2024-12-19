@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as h}from"./chunks/framework.OzTm07G-.js";const o=JSON.parse('{"title":"强制转换","description":"","frontmatter":{},"headers":[],"relativePath":"js/数据转换.md","filePath":"js/数据转换.md"}'),n={name:"js/数据转换.md"},k=h("",6),l=[k];function t(p,e,E,r,d,g){return a(),i("div",null,l)}const F=s(n,[["render",t]]);export{o as __pageData,F as default};

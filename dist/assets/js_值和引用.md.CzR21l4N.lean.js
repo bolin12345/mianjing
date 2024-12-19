@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.OzTm07G-.js";const y=JSON.parse('{"title":"基本数据类型","description":"","frontmatter":{},"headers":[],"relativePath":"js/值和引用.md","filePath":"js/值和引用.md"}'),h={name:"js/值和引用.md"},l=n("",19),k=[l];function t(p,e,E,r,d,g){return a(),i("div",null,k)}const c=s(h,[["render",t]]);export{y as __pageData,c as default};

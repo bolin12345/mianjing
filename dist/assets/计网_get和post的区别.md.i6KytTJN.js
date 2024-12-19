@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.OzTm07G-.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"计网/get和post的区别.md","filePath":"计网/get和post的区别.md"}'),a={name:"计网/get和post的区别.md"};function s(r,c,n,p,_,d){return o(),e("div")}const f=t(a,[["render",s]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,a1 as l}from"./chunks/framework.OzTm07G-.js";const u=JSON.parse('{"title":"说说html语义化理解","description":"","frontmatter":{},"headers":[],"relativePath":"html/语义化.md","filePath":"html/语义化.md"}'),i={name:"html/语义化.md"},r=l("",7),o=[r];function h(n,s,c,_,d,m){return e(),t("div",null,o)}const f=a(i,[["render",h]]);export{u as __pageData,f as default};

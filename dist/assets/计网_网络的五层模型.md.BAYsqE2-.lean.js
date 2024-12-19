@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a1 as _}from"./chunks/framework.OzTm07G-.js";const m=JSON.parse('{"title":"分层的意义","description":"","frontmatter":{},"headers":[],"relativePath":"计网/网络的五层模型.md","filePath":"计网/网络的五层模型.md"}'),o={name:"计网/网络的五层模型.md"},p=_("",10),r=[p];function i(l,s,n,c,d,h){return e(),a("div",null,r)}const f=t(o,[["render",i]]);export{m as __pageData,f as default};
