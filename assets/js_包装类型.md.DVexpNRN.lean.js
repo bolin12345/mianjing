@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as t}from"./chunks/framework.OzTm07G-.js";const y=JSON.parse('{"title":"包装类型","description":"","frontmatter":{},"headers":[],"relativePath":"js/包装类型.md","filePath":"js/包装类型.md"}'),h={name:"js/包装类型.md"},n=t("",3),k=[n];function l(p,e,r,E,d,g){return a(),i("div",null,k)}const c=s(h,[["render",l]]);export{y as __pageData,c as default};
